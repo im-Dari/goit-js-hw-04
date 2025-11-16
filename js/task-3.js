@@ -1,8 +1,8 @@
 const profile = {
     username: "Jacob",
-    updatePlayTime: 300, 
+    PlayTime: 300, 
 
-    changeUsername( newName) {
+    changeUsername(newName) {
         this.username = newName;
     },
 
